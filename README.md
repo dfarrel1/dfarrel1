@@ -20,11 +20,11 @@
 
   <div align="center">
     <a href="#x">
-      <img width="55%" src="https://github-readme-stats.vercel.app/api?username=dfarrel1&show_icons=true&theme=merko&count_private=true&include_all_commits=true"/>
+      <img height="160em" width="55%" src="https://github-readme-stats.vercel.app/api?username=dfarrel1&show_icons=true&theme=merko&count_private=true&include_all_commits=true"/>
     </a>
     &nbsp;
     <a href="#x">
-      <img width="36.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dfarrel1&layout=compact&theme=merko&langs_count=10"/>
+      <img height="160em" width="36.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dfarrel1&layout=compact&theme=merko&langs_count=10"/>
     </a>
   </div><br>
 
