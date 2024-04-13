@@ -14,7 +14,7 @@
 
   <div align="center">
     <a href="#x">
-      <img src="https://readme-typing-svg.herokuapp.com?lines=Technomancer;Adventurer;Experimenter;Small-time+Philanthrope;Big-time+dreamer.&center=true&width=500&height=34">
+      <img src="https://readme-typing-svg.herokuapp.com?lines=Technomancer;Adventurer;Experimenter;Dreamer&center=true&width=500&height=34">
     </a>
   </div><br>
 
